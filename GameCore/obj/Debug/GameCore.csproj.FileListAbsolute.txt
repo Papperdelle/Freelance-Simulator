@@ -1,0 +1,2 @@
+C:\Work\Project\Freelance Simulator\GameCore\GameCore\bin\Debug\GameCore.exe.config
+C:\Work\Project\Freelance Simulator\GameCore\GameCore\bin\Debug\FS.exe.config

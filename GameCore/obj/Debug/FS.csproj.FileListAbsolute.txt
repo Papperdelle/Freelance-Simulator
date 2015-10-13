@@ -1,0 +1,16 @@
+C:\Work\Project\Freelance Simulator\FS\GameCore\bin\Debug\FS.exe.config
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\bin\Debug\FS.exe.config
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\bin\Debug\FS.exe
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\bin\Debug\FS.pdb
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\obj\Debug\FS.exe
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\obj\Debug\FS.pdb
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Vladik\Desktop\Freelance Simulator\FS\GameCore\obj\Debug\FS.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Sync\Freelance Simulator\FS\GameCore\bin\Debug\FS.exe.config
+C:\Users\Андрей\Desktop\Sync\Freelance Simulator\FS\GameCore\obj\Debug\FS.exe
+C:\Users\Андрей\Desktop\Sync\Freelance Simulator\FS\GameCore\obj\Debug\FS.pdb
+C:\Users\Андрей\Desktop\Sync\Freelance Simulator\FS\GameCore\bin\Debug\FS.exe
+C:\Users\Андрей\Desktop\Sync\Freelance Simulator\FS\GameCore\bin\Debug\FS.pdb
+C:\Users\Андрей\Desktop\Sync\Freelance Simulator\FS\GameCore\obj\Debug\FS.csprojResolveAssemblyReference.cache
